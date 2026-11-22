@@ -4,7 +4,6 @@ A retro 2D RPG boss-fight minigame written in pure C# (Windows Forms), inspired 
 
 ## IMPORTANT
 * **Do not touch or delete** `compiler.bat` or `game.cs`.
-* **Extract the ZIP folder first** before playing, and keep `music.mp3` in the exact same folder as `Skeleton Duel.exe` (you can replace `music.mp3` with your own MP3 track if you want!).
 * Double-click **`Skeleton Duel.exe`** to launch the game.
 
 ## How to Play
